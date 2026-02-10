@@ -1,0 +1,13 @@
+# Dependencies
+node_modules/
+
+# Environment & secrets
+.env
+.env.local
+
+# Cursor MCP config (contains Slack token)
+.cursor/mcp.json
+
+# OS files
+.DS_Store
+Thumbs.db
